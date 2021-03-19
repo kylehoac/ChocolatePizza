@@ -57,7 +57,22 @@ hr {
 }
 
 .post {
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
+   
+}
+
+main {
+    margin-top: 50px;
+    width: 900px;
+}
+
+.maintext {
+    text-indent: 1rem;
+    /* margin-left: 150px; */
+    margin-top: 10px;
+}
+
+.list {
+    background-color: #cccccc;
+    background-image: url("photos/list-bg.png");
+
 }
