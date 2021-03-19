@@ -5,9 +5,59 @@ html {
 header {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #knifefork {
     height: 42px;
     width: 45px;
+}
+
+.rssmail {
+    margin-left: 10px;
+}
+
+.delicious {
+    /* width: 300px; */
+    
+}
+
+#heading1 {
+    font-size: 25px;
+    display: inline;
+    padding-bottom: 10px;
+}
+
+p {
+    display: inline;
+    position: relative;
+    top: 10px;
+    right: 100px;
+    /* margin-bottom: 150px; */ 
+}
+
+hr {
+    height: 10px;
+    background-color: #DDD;
+    margin-top: 30px;
+    width: 1200px;
+}
+
+#cpizza {
+    margin-top: 50px;
+    /* margin-left: 265px; */
+    font-size: 35px;
+    font-family: sans-serif;
+    /* display: flex; */
+    /* justify-content: left; */
+}
+
+#posted {
+
+}
+
+.post {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
 }
