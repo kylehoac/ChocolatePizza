@@ -1,3 +1,13 @@
 html {
     width: 1200px;
 }
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+#knifefork {
+    height: 42px;
+    width: 45px;
+}
